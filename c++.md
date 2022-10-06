@@ -137,7 +137,7 @@ int main()
  	
 }
 ~~~
-*** while en C++ con tablas ***
+**while en C++ con tablas**
 ~~~
 #include <iostream>
 
