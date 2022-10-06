@@ -19,7 +19,6 @@ else:
 print ("el total a pagar sin descuento es de: ", valor_total) 
 print ("el total a pagar con descuento es de : ", valor_total - valor_descuento)
 ~~~
-
 ~~~
  print ("Digite las notas del primer corte")
 nota_1 = float(input("Nota de primera asignatura: "))
@@ -49,7 +48,6 @@ elif promedio_2 < promedio_3 and promedio_2 < promedio_1:
 else: 
     print ("el tercer corte tuvo el mayor promedio")
 ~~~
-
 ~~~
 formularios = int(input("Digite la cantidad de formularios: "))
 i, hombres, mujeres, hombres_12, hombres_20, hombres_35, hombres_50, hombres_mayores, hombres_soltero, hombres_casado, hombres_viudo, hombres_divorciado = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
